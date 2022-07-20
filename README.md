@@ -1,0 +1,2 @@
+# wp-spamblock
+initial readme
